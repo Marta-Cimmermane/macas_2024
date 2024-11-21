@@ -1,5 +1,5 @@
 1. Norādīto GIT forkot.
 2. Klonēt GIT repozitoriju uz VSCODE.
 3. Python datnē izlabot kļūdas.
-4. Pievienot  komentāru par drba izpildi.
+4. Pievienot  komentāru par darba izpildi.
 5. Sinhronizēt savu darbu ar GITHUB.
